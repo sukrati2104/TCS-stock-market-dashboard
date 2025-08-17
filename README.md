@@ -1,4 +1,4 @@
-# TCS-stock-market-dashboard
+# TCS-stock-market-dashboard📈
 The TCS Stock Trend Analysis & Visualization (2018–2023) project involved a comprehensive examination of Tata Consultancy Services’ stock performance over a five-year period, with the objective of identifying patterns, seasonal fluctuations, and growth trends across multiple timeframes — daily, monthly, quarterly, and yearly. Historical market data, including open, close, high, and low prices for over 1,500 trading days, was sourced through the Yahoo Finance API and stored in CSV format. The dataset underwent rigorous preprocessing in Excel and Python (Pandas, NumPy) to remove missing values, eliminate duplicates, and derive time-based fields such as day, month, quarter, and year. Further calculations and key performance indicators (KPIs) were created in Power BI using DAX to aggregate totals, measure year-on-year percentage changes, and ensure accuracy. 
 
 First page of my dashboard gives an overall picture of TCS’s stock performance from 2018 to 2023.
